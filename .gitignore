@@ -1,0 +1,9 @@
+.DS_Store
+.env
+.vscode/settings.json
+.idea/
+/node_modules/
+npm-debug.log
+.linkinator
+.eslintcache
+.node-version
