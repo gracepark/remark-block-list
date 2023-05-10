@@ -1,0 +1,19 @@
+{
+  "name": "remark-block-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "remark-cli": "^11.0.0",
+    "remark-lint": "^9.1.1",
+    "unified-lint-rule": "^2.1.1",
+    "unist-util-generated": "^2.0.1",
+    "unist-util-visit": "^4.1.2"
+  }
+}
